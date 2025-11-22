@@ -63,4 +63,4 @@
 ### Телеграм канал с анонсами от создателя сообщества [pashkov256](https://t.me/pashkov256)
 
 
-<a href="https://t.me/pashkov2560" ><img src="../assets/blog.png" ></a>
+<a href="https://t.me/pashkov2560" ><img src="../assets/blog.png" width="300px"></a>
